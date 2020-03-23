@@ -1,6 +1,7 @@
 ---
 layout: page  
 title: About me
+image: /Users/erinchille/Documents/Professional_Development/echille.github.io/img/IMG_3290.JPG
 ---
 
 ### About Me:
