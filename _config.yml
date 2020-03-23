@@ -56,11 +56,11 @@ navbar-col: "#008080"
 navbar-text-col: "#b3ffe6"
 navbar-children-col: "#b3ffe6"
 page-col: "#f0fff0"
-link-col: "#FF8A6D"
-hover-col: "#FF8A6D"
+link-col: "#008080"
+hover-col: "#b3ffe6"
 footer-col: "#008080"
 footer-text-col: "#b3ffe6"
-footer-link-col: "#f0fff0"
+footer-link-col: "#b3ffe6"
 
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
@@ -76,7 +76,6 @@ footer-link-col: "#f0fff0"
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: Erin Chille
-  quote: “Make it so!” ― Jean-Luc Picard
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
