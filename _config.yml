@@ -35,10 +35,9 @@ baseurl: ""
 
 # List of links in the navigation bar
 navbar-links:
-  Home: "Blog"
-  About Me: "About"
   Research: "Research"
   Community Engagement: "CommunityEngagement"
+  About Me: "About"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
