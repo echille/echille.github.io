@@ -36,9 +36,9 @@ baseurl: ""
 # List of links in the navigation bar
 navbar-links:
   Research: 
-	- My Research: "Research"
-  	- Data and Code: "https://github.com/echille/Montipora_OA_Development_Timeseries"
-  	- My Open Lab Notebook: "https://echille.github.io/E.-Chille-Open-Lab-Notebook/"
+    - My Research: "Research"
+    - Data and Code: "https://github.com/echille/Montipora_OA_Development_Timeseries"
+    - My Open Lab Notebook: "https://echille.github.io/E.-Chille-Open-Lab-Notebook/"
   Community Engagement: "CommunityEngagement"
   CV: "CV"
   
