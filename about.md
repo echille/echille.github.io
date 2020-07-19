@@ -2,7 +2,7 @@
 layout: page  
 title: About me
 permalink: /
-image: ![Me](https://github.com/echille/echille.github.io/tree/master/img/IMG-2540.JPG)
+image: ![Me](https://raw.githubusercontent.com/echille/echille.github.io/master/img/IMG-2540.JPG)
 ---
 
 ### About Me:
