@@ -43,7 +43,7 @@ navbar-links:
   CV: "CV"
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/EEClogo1.png"
+avatar: "/img/EEClogo.png"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
@@ -54,7 +54,7 @@ avatar: "/img/EEClogo1.png"
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
 navbar-col: "#008080"
-navbar-text-col: "#008080"
+navbar-text-col: "#b3ffe6"
 navbar-children-col: "##f0fff0"
 page-col: "#f0fff0"
 link-col: "#008080"
