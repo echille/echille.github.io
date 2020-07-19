@@ -1,8 +1,8 @@
 ---
 layout: page  
 title: About me
-permalink: /About/
-image: /Users/erinchille/Documents/Professional_Development/echille.github.io/img/IMG_3290.JPG
+permalink: /
+image: ![Me](https://github.com/echille/echille.github.io/tree/master/img/IMG-2540.JPG)
 ---
 
 ### About Me:
