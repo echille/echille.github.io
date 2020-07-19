@@ -1,8 +1,9 @@
 ---
 layout: page  
-title: About me
-permalink: /
-image: ![Me](https://raw.githubusercontent.com/echille/echille.github.io/master/img/IMG-2540.JPG)
+title: Erin Chille  
+permalink: /  
+show-avatar: false  
+image: ![Me](https://raw.githubusercontent.com/echille/echille.github.io/master/img/IMG-2540.JPG)  
 ---
 
 ### About Me:
