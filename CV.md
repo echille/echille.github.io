@@ -15,8 +15,6 @@ show-avatar: false
 <center>University of Rhode Island</center>
 <center>120 Flagg Road, Kingston RI 02881</center>
 
-![mylogo]({{ site.baseurl}}/img/ECClogo.png "mylogo")
-
 &nbsp;
 
 #### EDUCATION
