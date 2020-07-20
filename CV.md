@@ -9,12 +9,15 @@ show-avatar: false
 &nbsp;
 &nbsp;
 
+
 ## <center>ERIN E. CHILLE</center>
 <center>Department of Biological Sciences</center>
 <center>University of Rhode Island</center>
 <center>120 Flagg Road, Kingston RI 02881</center>
 
+![mylogo]({{ site.baseurl}}/img/ECClogo.png "mylogo")
 
+&nbsp;
 
 #### EDUCATION
 
@@ -57,9 +60,9 @@ show-avatar: false
 
 ##### Invited Presentations  
 1. Guest Lecturer, “2019 Dive into Marine Science”, BIO 130, University of Rhode Island
-Panel Member, “2019 Undergraduate Opportunities Panel”, URI Society for Women in Marine Science
-2. Lightning Talk, “2019 What I Did Over My Summer Vacation”, URI Marine Biology Lecture Series
-3. Lightning Talk, “2018 What I Did Over My Summer Vacation”, URI Marine Biology Lecture Series
+2. Panel Member, “2019 Undergraduate Opportunities Panel”, URI Society for Women in Marine Science
+3. Lightning Talk, “2019 What I Did Over My Summer Vacation”, URI Marine Biology Lecture Series
+4. Lightning Talk, “2018 What I Did Over My Summer Vacation”, URI Marine Biology Lecture Series
 
 &nbsp;
  
