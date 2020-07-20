@@ -7,7 +7,7 @@ show-avatar: false
 
 ### About Me
 
-![me1](https://raw.githubusercontent.com/echille/echille.github.io/master/img/IMG-2540.JPG) 
+![me1](https://raw.githubusercontent.com/echille/echille.github.io/master/img/IMG-2540.png) 
 
 &nbsp;
 
