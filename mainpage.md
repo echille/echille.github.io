@@ -5,13 +5,16 @@ permalink: /
 show-avatar: false  
 ---
 
-### About Me
+![Erin the videographer](https://raw.githubusercontent.com/echille/echille.github.io/master/img/Erin%20shooting.jpg)
 
 <img style="float: left;" src="https://raw.githubusercontent.com/echille/echille.github.io/master/img/IMG-2540.png">
 
-I am a a master's student studying **Marine and Evolutionary Biology** in the [Putnam Lab](http://putnamlab.com/) at the University of Rhode Island.My research interests are primarily focused on investigating the mechanisms that allow hermatypic corals to adapt and acclimatize to multiple simultaneous stressors, and the implications of these mechanisms towards conservation and ecology. Currently, I am studying the physiological and transcriptomic effects of projected oceanic pH levels on the rice coral, *Montipora capitata*, throughout its embryogenesis.
+### About Me
 
-If you would like to find more information about my research, or other Putnam Lab projects, please visit the Putnam Lab.
+I am a Master's student at the University of Rhode Island studying the embryogenesis of the Pacific rice coral, *Montipora capitata*, and the effects of ocean acidification on its embryonic development on a molecular level. I am skilled in science communication, RNA/DNA extractions, scientific diving, microscopy, bioinformatics, and coral aquaculture.
+
+I will be graduating with a M.S. in Evolutionary and Marine Biology in May 2021, and am planning on entering into a Ph.D. program in the Fall of 2021. My research interests are primarily focused on investigating the mechanisms that allow reef-building corals to adapt and acclimatize to multiple simultaneous stressors, and the implications of these mechanisms towards conservation and ecology. 
+
 
 
 ### Contact me:
