@@ -3,13 +3,13 @@ layout: page
 title: Community Engagement 
 permalink: /CommunityEngagement/  
 bigimg:
-  - "/img/RV.jpg" : "River Cleanup with Westchester County Community College of NY"  
+  - "/img/RV.JPG" : "River Cleanup with Westchester County Community College of NY"  
 show-avatar: false 
 ---
 
-&nbsp;
-
 > Only through engaging local communities via education, outreach, and activism will we afford any chance of preserving and restoring the natural environment and quality of life for all communities on our big blue world.
+
+&nbsp;
 
 ### Activism
 
