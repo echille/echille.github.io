@@ -13,9 +13,7 @@ show-avatar: false
 
 In 2017, I joined the Narrow River Preservation Association as a board member. In addition to helping plan and execute fundraising and outreach events, I also participate as a river monitor for the River Watch program, coordinate the NRPA Bi-annual River Clean Up, and am leading an effort to make the River Watch data and analyses publicly available.
 
-![Art-on-the-River](https://raw.githubusercontent.com/echille/echille.github.io/master/img/2018_08_25_Art-on-the-River_AK_20_a.jpg)  
-![cleanup](https://raw.githubusercontent.com/echille/echille.github.io/master/img/2018_09_30_NR-Cleanup_14.jpg)  
-![riverwater](https://raw.githubusercontent.com/echille/echille.github.io/master/img/riverwatch.png)  
+![Art-on-the-River](https://raw.githubusercontent.com/echille/echille.github.io/master/img/2018_08_25_Art-on-the-River_AK_20_a.jpg)  ![cleanup](https://raw.githubusercontent.com/echille/echille.github.io/master/img/2018_09_30_NR-Cleanup_14.jpg)  ![riverwater](https://raw.githubusercontent.com/echille/echille.github.io/master/img/riverwatch.png)  
 
 &nbsp;
 
