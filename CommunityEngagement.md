@@ -2,8 +2,12 @@
 layout: page  
 title: Community Engagement 
 permalink: /CommunityEngagement/  
+bigimg:
+  - "/img/RV.jpg" : "Telepresence"  
 show-avatar: false 
 ---
+
+&nbsp;
 
 > Only through engaging local communities via education, outreach, and activism will we afford any chance of preserving and restoring the natural environment and quality of life for all communities on our big blue world.
 
@@ -26,10 +30,10 @@ In 2017, I joined the Narrow River Preservation Association as a board member. I
 In Spring of 2019 I became a certified diver in underwater photography, specializing in videography. Sharing the alien underwater world through video has become one of my passions. See some of my projects below:
 
 Featured on the URI Diving Safety and Research [website](https://web.uri.edu/research-admin/diving-safety-research-program/):  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r6-x8TiTK08" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="766" height="430" src="https://www.youtube.com/embed/r6-x8TiTK08" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Featured on the Narrow River Preservation Association [website](http://narrowriver.org/whatlivesinriver/):  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aExRCdO9KAk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="766" height="430" src="https://www.youtube.com/embed/aExRCdO9KAk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 &nbsp;
 
