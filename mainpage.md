@@ -2,10 +2,9 @@
 layout: page  
 title: Erin Chille  
 permalink: /  
-show-avatar: false  
+show-avatar: false 
+<script src="path/to/md-gallery.js"></script>
 ---
-
-![Erin the videographer](https://raw.githubusercontent.com/echille/echille.github.io/master/img/Erin%20shooting.jpg)
 
 <img style="float: left;" src="https://raw.githubusercontent.com/echille/echille.github.io/master/img/IMG-2540.png">
 
@@ -23,3 +22,13 @@ Email: [erin_chille@uri.edu](mailto:erin_chille@uri.edu)
 
 
 ---
+
+* ![Erin the videographer](https://raw.githubusercontent.com/echille/echille.github.io/master/img/Erin%20shooting.jpg)  
+* ![Erin swimming](https://raw.githubusercontent.com/echille/echille.github.io/master/img/IMG_3290.JPG)  
+* ![Erin in a kayak](https://raw.githubusercontent.com/echille/echille.github.io/master/img/IMG_9439.JPG)  
+
+<script>
+    md_gallery();
+</script>
+---
+
