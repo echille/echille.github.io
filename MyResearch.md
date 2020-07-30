@@ -1,6 +1,6 @@
 ---
 layout: page  
-title: Curriculum vitae  
+title: My Research 
 permalink: /Research/  
 show-avatar: false   
 ---
