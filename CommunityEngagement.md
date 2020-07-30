@@ -1,13 +1,11 @@
 ---
 layout: page  
-title: Erin Chille  
+title: Community Engagement 
 permalink: /CommunityEngagement/  
 show-avatar: false 
 ---
 
 > Only through engaging local communities via education, outreach, and activism will we afford any chance of preserving and restoring the natural environment and quality of life for all communities on our big blue world.
-
----
 
 ### Activism
 
@@ -24,8 +22,13 @@ In 2017, I joined the Narrow River Preservation Association as a board member. I
 Featured on the URI Diving Safety and Research [website](https://web.uri.edu/research-admin/diving-safety-research-program/):  
 <iframe width="560" height="315" src="https://www.youtube.com/embed/r6-x8TiTK08" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+&nbsp;
+
+&nbsp;
+
 Featured on the Narrow River Preservation Association [website](http://narrowriver.org/whatlivesinriver/):  
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aExRCdO9KAk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ---
 
 ### Outreach
