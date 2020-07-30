@@ -3,7 +3,7 @@ layout: page
 title: Community Engagement 
 permalink: /CommunityEngagement/  
 bigimg:
-  - "/img/RV.jpg" : "Telepresence"  
+  - "/img/RV.jpg" : "River Cleanup with Westchester County Community College of NY"  
 show-avatar: false 
 ---
 
@@ -11,17 +11,11 @@ show-avatar: false
 
 > Only through engaging local communities via education, outreach, and activism will we afford any chance of preserving and restoring the natural environment and quality of life for all communities on our big blue world.
 
-&nbsp;
-
 ### Activism
 
 In 2017, I joined the Narrow River Preservation Association as a board member. In addition to helping plan and execute fundraising and outreach events, I also participate as a river monitor for the River Watch program, coordinate the NRPA Bi-annual River Clean Up, and am leading an effort to make the River Watch data and analyses publicly available.
 
 ![Art-on-the-River](https://raw.githubusercontent.com/echille/echille.github.io/master/img/2018_08_25_Art-on-the-River_AK_20_a.jpg)  ![cleanup](https://raw.githubusercontent.com/echille/echille.github.io/master/img/2018_09_30_NR-Cleanup_14.jpg)  ![riverwater](https://raw.githubusercontent.com/echille/echille.github.io/master/img/riverwatch.png)  
-
-&nbsp;
-
----
 
 &nbsp;
 
@@ -37,12 +31,7 @@ Featured on the Narrow River Preservation Association [website](http://narrowriv
 
 &nbsp;
 
----
-
-&nbsp;
-
 ### Outreach
-
 
 #### Volunteering at Mystic Aquarium and Biomes Marine Biology Center:  
 In these hubs of aquatic information, I was able to introduce visitors to local and exotic marine life through feeding demonstrations, touch tanks, short speeches, and one-on-one dialogue. I felt that by sharing with others my knowledge of, and wonder for the marine world that they might become more conscious of their environmental footprint. 
