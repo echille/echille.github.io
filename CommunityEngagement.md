@@ -6,8 +6,6 @@ permalink: /CommunityEngagement/
 show-avatar: false 
 ---
 
-&nbsp;
-
 ### Activism
 
 In 2017, I joined the Narrow River Preservation Association as a board member. In addition to helping plan and execute fundraising and outreach events, I also participate as a river monitor for the River Watch program, coordinate the NRPA Bi-annual River Clean Up, and am leading an effort to make the River Watch data and analyses publicly available.
