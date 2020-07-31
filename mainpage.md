@@ -1,6 +1,7 @@
 ---
 layout: page  
 title: Erin Chille  
+subtitle: Master's Student | Evolutionary and Marine Biology
 permalink: /  
 show-avatar: false 
 ---
