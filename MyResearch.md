@@ -8,7 +8,7 @@ show-avatar: false
 
 *Under Construction! Expected launch date July 31st, 2020*
 
-<img style="padding: 10px; float: left;" src="/img/EBDRkBVXoAE29bM.jpeg">
+<img style="padding: 10px; float: right;" src="/img/EBDRkBVXoAE29bM.jpeg">
 
 ### Graduate Research
 
@@ -18,8 +18,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse ultrices la
 
 ---
 
-<img style="padding: 10px; float: left;" src="/img/D9oK6phXUAEs_cp.jpeg">  
 ### Undergraduate Research  
+<img style="padding: 10px; float: right;" src="/img/D9oK6phXUAEs_cp.jpeg">  
 #### Reproductive Ecology  
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse ultrices lacus nibh, vel congue nunc fermentum eu. Mauris vitae ullamcorper ipsum. Nulla pharetra sapien ligula, non convallis est pharetra et. Maecenas ipsum dui, mollis ut imperdiet at, aliquam non dolor. Duis eget arcu ex. Sed posuere risus quis ligula gravida commodo. Fusce mi quam, gravida nec nibh vitae, finibus placerat orci. Etiam placerat in lectus iaculis iaculis. Curabitur nunc sem, varius vel dui vel, lacinia accumsan mi. In magna nisl, porta at vulputate quis, lacinia quis erat. Integer commodo vulputate libero, sit amet posuere nisi finibus quis.
 
