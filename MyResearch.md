@@ -10,15 +10,18 @@ show-avatar: false
 
 ### Graduate Research
 
-<img style="float: left;" src="/img/EBDRkBVXoAE29bM.jpeg">  
+<img style="float: left;" src="/img/EBDRkBVXoAE29bM.jpeg">
+
 #### Developmental Biology, 'Omics, Ecophysiology
 
 ---
 
 ### Undergraduate Research
 
-#### Reproductive Ecology  
 <img style="float: left;" src="/img/D9oK6phXUAEs_cp.jpeg">
+
+#### Reproductive Ecology
+
 
 #### Reef Community Ecology
 
