@@ -19,9 +19,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse ultrices la
 ---
 
 ### Undergraduate Research  
-<img style="padding: 10px; float: right;" src="/img/D9oK6phXUAEs_cp.jpeg">  
+
 #### Reproductive Ecology  
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse ultrices lacus nibh, vel congue nunc fermentum eu. Mauris vitae ullamcorper ipsum. Nulla pharetra sapien ligula, non convallis est pharetra et. Maecenas ipsum dui, mollis ut imperdiet at, aliquam non dolor. Duis eget arcu ex. Sed posuere risus quis ligula gravida commodo. Fusce mi quam, gravida nec nibh vitae, finibus placerat orci. Etiam placerat in lectus iaculis iaculis. Curabitur nunc sem, varius vel dui vel, lacinia accumsan mi. In magna nisl, porta at vulputate quis, lacinia quis erat. Integer commodo vulputate libero, sit amet posuere nisi finibus quis.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse ultrices lacus nibh, vel congue nunc fermentum eu. Mauris vitae ullamcorper ipsum. Nulla pharetra sapien ligula, non convallis est pharetra et. Maecenas ipsum dui, mollis ut imperdiet at, aliquam non dolor. Duis eget arcu ex. Sed posuere risus quis ligula gravida commodo. Fusce mi quam, gravida nec nibh vitae, finibus placerat orci. Etiam placerat in lectus iaculis iaculis. Curabitur nunc sem, varius vel dui vel, lacinia accumsan mi. In magna nisl, porta at vulputate quis, lacinia quis erat. Integer commodo vulputate libero, sit amet posuere nisi finibus quis.  
+![mesocosm](/img/D9oK6phXUAEs_cp.jpeg) ![BIOS1](/img/BIOS1.png) ![BIOS2](/img/BIOS2.png)
 
 #### Reef Community Ecology  
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse ultrices lacus nibh, vel congue nunc fermentum eu. Mauris vitae ullamcorper ipsum. Nulla pharetra sapien ligula, non convallis est pharetra et. Maecenas ipsum dui, mollis ut imperdiet at, aliquam non dolor. Duis eget arcu ex. Sed posuere risus quis ligula gravida commodo. Fusce mi quam, gravida nec nibh vitae, finibus placerat orci. Etiam placerat in lectus iaculis iaculis. Curabitur nunc sem, varius vel dui vel, lacinia accumsan mi. In magna nisl, porta at vulputate quis, lacinia quis erat. Integer commodo vulputate libero, sit amet posuere nisi finibus quis.  
