@@ -34,4 +34,6 @@ In these hubs of aquatic information, I was able to introduce visitors to local 
 #### “Something Fishy at the Market”:  
 For my Girl Scout Gold Award project, “Something Fishy at the Market," I worked closely with the director of Biomes Marine Biology Center, to develop a curriculum for home-schooled students to learn about sustainable seafood. In addition to this curriculum, I also created a [blog](https://erinburr124.wixsite.com/something-fishy) that covered topics such as bioaccumulation, mercury poisoning, and apps to help people identify sustainable seafood.
 
+<iframe width="729" height="409" src="https://erinburr124.wixsite.com/something-fishy/post/become-an-ocean-protector-ocean-sustainability-curriculum-for-3rd-5th-grade-classrooms" scroll=true></iframe>
+
 ---
