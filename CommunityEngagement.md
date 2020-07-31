@@ -8,7 +8,7 @@ show-avatar: false
 
 ### Activism
 
-In 2017, I joined the Narrow River Preservation Association as a board member. In addition to helping plan and execute fundraising and outreach events, I also participate as a river monitor for the River Watch program, coordinate the NRPA Bi-annual River Clean Up, and am leading an effort to make the River Watch data and analyses publicly available.
+In 2017, I joined the Narrow River Preservation Association ([NRPA](narrowriver.org)) as a board member. As a board member, I contribute to strategic planning, watershed stewardship, and the planning and execution of fundraising and outreach events. I also participate as a river monitor for the River Watch program, and coordinator of the NRPA Bi-annual River Clean Up and River Watch Data Accessibility projects.
 
 ![Art-on-the-River](https://raw.githubusercontent.com/echille/echille.github.io/master/img/2018_08_25_Art-on-the-River_AK_20_a.jpg)  ![cleanup](https://raw.githubusercontent.com/echille/echille.github.io/master/img/2018_09_30_NR-Cleanup_14.jpg)  ![riverwater](https://raw.githubusercontent.com/echille/echille.github.io/master/img/riverwatch.png)  
 
@@ -32,8 +32,6 @@ Featured on the Narrow River Preservation Association [website](http://narrowriv
 #### Volunteering at Mystic Aquarium and Biomes Marine Biology Center:  
 In these hubs of aquatic information, I was able to introduce visitors to local and exotic marine life through feeding demonstrations, touch tanks, short speeches, and one-on-one dialogue. I felt that by sharing with others my knowledge of, and wonder for the marine world that they might become more conscious of their environmental footprint.  
 #### “Something Fishy at the Market”:  
-For my Girl Scout Gold Award project, “Something Fishy at the Market," I worked closely with the director of Biomes Marine Biology Center, to develop a curriculum for home-schooled students to learn about sustainable seafood. In addition to this curriculum, I also created a [blog](https://erinburr124.wixsite.com/something-fishy) that covered topics such as bioaccumulation, mercury poisoning, and apps to help people identify sustainable seafood.
-
-<iframe width="729" height="409" src="https://erinburr124.wixsite.com/something-fishy/post/become-an-ocean-protector-ocean-sustainability-curriculum-for-3rd-5th-grade-classrooms"></iframe>
+For my Girl Scout Gold Award project, “Something Fishy at the Market," I worked closely with the director of Biomes Marine Biology Center, to develop a [curriculum](https://erinburr124.wixsite.com/something-fishy/post/become-an-ocean-protector-ocean-sustainability-curriculum-for-3rd-5th-grade-classrooms) as a guide for educators to address sustainable seafood in the classroom. In addition to this curriculum, I also created a [blog](https://erinburr124.wixsite.com/something-fishy) that covered topics such as bioaccumulation, mercury poisoning, and apps to help people identify sustainable seafood, and developed media for Biomes Marine Biology Center centered around fishery sustainability.
 
 ---
