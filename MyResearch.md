@@ -2,7 +2,7 @@
 layout: page  
 title: My Research 
 bigimg:
-  - "img/Mcap.jpg"  
+  - "img/Mcap.jpg" name="Photo credit: Kevin Wong"  
 subtitle: Developmental Biology, 'Omics, Ecophysiology
 permalink: /Research/  
 show-avatar: false   
