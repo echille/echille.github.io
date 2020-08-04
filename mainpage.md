@@ -2,10 +2,7 @@
 layout: page  
 title: Erin Chille  
 bigimg:
-  - "img/bigimg1.jpg"
-  - "img/bigimg2.JPG"
-  - "img/bigimg3.JPG"
-  - "img/bigimg4.jpg"
+  - "img/MPbigimg.JPG"
 permalink: /  
 show-avatar: false 
 ---
@@ -27,7 +24,7 @@ Email: [erin_chille@uri.edu](mailto:erin_chille@uri.edu)
 
 ![pic1](https://raw.githubusercontent.com/echille/echille.github.io/master/img/Erin%20shooting.jpg)
 ![pic2](https://raw.githubusercontent.com/echille/echille.github.io/master/img/IMG_3290.JPG)
-![pic3](https://raw.githubusercontent.com/echille/echille.github.io/master/img/IMG_9439.JPG)
+![pic3](https://raw.githubusercontent.com/echille/echille.github.io/master/img/Erin.jpg)
 
 ---
 
