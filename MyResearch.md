@@ -3,7 +3,7 @@ layout: page
 title: My Research 
 bigimg:
   - "img/Mcap.jpg"  
-subtitle: Developmental Biology, 'Omics, Ecophysiology
+subtitle: Developmental Biology, Omics, Ecophysiology
 permalink: /Research/  
 show-avatar: false   
 ---
@@ -14,7 +14,7 @@ show-avatar: false
 
 ### Graduate Research
 
-#### Developmental Biology, 'Omics, Ecophysiology
+#### Developmental Biology, Omics, Ecophysiology
 
 My current research in the [Putnam Lab](https://putnamlab.com) investigates maternal provisioning, the maternal-to-zygotic transition, and effects of ocean acidification during the early development of the Pacific rice coral, *Montipora capitata.* I am examining nine life stages from pre-fertilization to adult, focusing on shifts in the gene expression network within the first twenty-four hours post-spawning. My research explores how the maternal and zygotic transcriptomes of symbiotic developers (*M. capitata*) and aposymbiotic developers (*A. millepora*) differ and relate to their life-history strategies. The goal of this research is to provide high-resolution systems-level insight into maternal provisioning and the maternal-to-zygotic transition. In doing so, I aim to provide a more detailed description of the maternal complement of mRNA and explore its importance for carryover or latent effects relating to environmental stressors. 
 
@@ -30,7 +30,7 @@ In addition to lab work, during the summer of 2019, I accompanied Kevin for fiel
 ![mesocosm](/img/D9oK6phXUAEs_cp.jpeg) ![BIOS1](/img/BIOS1.png) ![BIOS2](/img/BIOS2.jpg)
 
 #### Reef Community Ecology  
-In Fall 2016 I joined Graham Forrester's Lab at the University of Rhode Island, where I worked throughout my undergraduate career. In the Forrester Lab, I organized data collected during the URI Bonaire J-term Program from 2014 onward in order to compile a status report for the STINAPA Bonaire National Parks Foundation. Later on, I assisted with fieldwork in the British Virgin Islands. In the field, I contributed to experimental site construction, identification of parasites, and fish collection and observation. Upon return, I assisted in manuscript writing and revision for submission to *Scientific Reports.*
+In Fall 2016 I joined Graham Forrester's Lab at the University of Rhode Island, where I worked throughout my undergraduate career. In the Forrester Lab, I organized data collected during the URI Bonaire J-term Program from 2014 onward to compile as a status report for the STINAPA Bonaire National Parks Foundation. Later on, I assisted with fieldwork in the British Virgin Islands. In the field, I contributed to experimental site construction, identification of parasites, and fish collection and observation. Upon return, I assisted in manuscript writing and revision for submission to *Scientific Reports.*
 
 ##### Published in *Scientific Reports:*  
 Forrester, G.E., **Chille, E.,** Nickles, K. *et al.* Behavioural mechanisms underlying parasite-mediated competition for refuges in a coral reef fish. *Sci Rep* **9,** 15487 (2019). [https://doi.org/10.1038/s41598-019-52005-y](https://doi.org/10.1038/s41598-019-52005-y)
