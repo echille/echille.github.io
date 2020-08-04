@@ -1,6 +1,8 @@
 ---
 layout: page  
 title: Curriculum vitae  
+bigimg:
+  - "img/CVbigimg"
 permalink: /CV/  
 show-avatar: false   
 ---

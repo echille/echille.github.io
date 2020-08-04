@@ -1,6 +1,11 @@
 ---
 layout: page  
 title: Erin Chille  
+bigimg:
+  - "img/bigimg1"
+  - "img/bigimg2"
+  - "img/bigimg3"
+  - "img/bigimg4"
 permalink: /  
 show-avatar: false 
 ---

@@ -2,6 +2,8 @@
 layout: page  
 title: Community Engagement 
 subtitle: Only through engaging local communities via education, public outreach, and activism will we afford any chance of preserving and restoring the welfare of all communities, natural and anthropogenic, on our big blue world.
+bigimg:
+  - "img/CEbigimg"
 permalink: /CommunityEngagement/  
 show-avatar: false 
 ---
