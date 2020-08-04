@@ -25,7 +25,7 @@ My current research in the [Putnam Lab](https://putnamlab.com) investigates mate
 #### Reproductive Ecology  
 I joined the Putnam Lab in February 2018, during my junior year at the University of Rhode Island. As an undergraduate research assistant in the lab, I assisted (now) Ph.D. candidate [Kevin Wong](https://kevinhwong1.github.io/) in investigating the mechanisms causing intra- and trans-generational acclimatization of reef-building coral, *Porites astreoides,* in response to environmental change. Under his mentorship, I learned how to perform laboratory techniques such as chlorophyll analysis, Symbiodiniaceae cell counts, RNA and DNA extractions, and BCA total protein assays to help piece together the mechanisms behind these complex processes.
 
-In addition to lab work, during the summer of 2019, I accompanied Kevin for fieldwork in Bermuda. In the field, I assisted with coral collections, culturing, and sampling, respirometry, surface area analysis, and RGB color analysis. I also taught salsa dancing to interested interns at the  Bermuda Institute of Ocean Sciences.
+In addition to lab work, during the summer of 2019, I accompanied Kevin for fieldwork in Bermuda. In the field, I assisted with coral collections, culturing, and sampling, respirometry, surface area analysis, and RGB color analysis. I also taught salsa dancing to several interns at the  Bermuda Institute of Ocean Sciences.
 
 ![mesocosm](/img/D9oK6phXUAEs_cp.jpeg) ![BIOS1](/img/BIOS1.png) ![BIOS2](/img/BIOS2.jpg)
 
