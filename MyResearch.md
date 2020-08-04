@@ -39,8 +39,12 @@ Forrester, G.E., **Chille, E.,** Nickles, K. *et al.* Behavioural mechanisms und
 ![Goby_Poster](/img/goby_poster.png)  
 {% include button.html button_name="*Download poster*" button_class="outline-primary" url="https://github.com/echille/echille.github.io/raw/master/img/goby_poster.png" %}
 
+<img style="padding: 10px; float: right;" src="/img/WW.jpg">
+
 #### Long-Term Water Quality Monitoring, Citizen Science, Pond Ecology  
-From April 2017 through February 2018 I worked in the URI Watershed Watch Lab with dual roles as an undergraduate research fellow and technician. The URI Watershed Watch, founded in 1987, is a researcher-led citizen scientist program that organizes volunteers to monitor the water quality of over 250 sites throughout Southern New England. My role as a technician included supporting the citizen science program via volunteer training, preparation and maintenance of equipment, sample processing, water sampling, and data entry/quality assurance. As a fellow, I developed a project that investigated the efficacy of using cyanobacteria fractionation to track the formation of harmful algal blooms.  
+From April 2017 through February 2018 I worked in the [URI Watershed Watch Lab](https://web.uri.edu/watershedwatch/) with dual roles as an undergraduate research fellow and technician. The URI Watershed Watch, founded in 1987, is a researcher-led citizen scientist program that organizes volunteers to monitor the water quality of over 250 sites throughout Southern New England. My role as a technician included supporting the citizen science program via volunteer training, preparation and maintenance of equipment, sample processing, water sampling, and data entry/quality assurance. 
+
+As a fellow, I developed a project that investigated the efficacy of using cyanobacteria fractionation to track the formation of harmful algal blooms.  
 I worked with Narragansett, RI EPA scientists to: 
 - Develop monitoring and analytical protocols for the collection and size fractionation of cyanobacteria
 - Conduct fluorometric analysis on over 100 samples from three ponds to determine chlorophyll and phycocyanin concentration.
