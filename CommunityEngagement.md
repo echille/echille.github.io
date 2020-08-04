@@ -12,7 +12,7 @@ In 2017, I joined the Narrow River Preservation Association ([NRPA](http://narro
 
 ![Art-on-the-River](https://raw.githubusercontent.com/echille/echille.github.io/master/img/2018_08_25_Art-on-the-River_AK_20_a.jpg)  ![cleanup](https://raw.githubusercontent.com/echille/echille.github.io/master/img/2018_09_30_NR-Cleanup_14.jpg)  ![riverwater](https://raw.githubusercontent.com/echille/echille.github.io/master/img/riverwatch.png)  
 
-![River Cleanup with Westchester County Community College of NY](https://raw.githubusercontent.com/echille/echille.github.io/master/img/RV.JPG)
+![River Cleanup with Westchester County Community College of NY](https://raw.githubusercontent.com/echille/echille.github.io/master/img/NR_cleanup_WCC.JPG)
 
 ---
 

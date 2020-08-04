@@ -1,6 +1,8 @@
 ---
 layout: page  
 title: My Research 
+bigimg:
+  - "img/Mcap.jpg"  
 subtitle: Developmental Biology, 'Omics, Ecophysiology
 permalink: /Research/  
 show-avatar: false   
