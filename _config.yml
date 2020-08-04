@@ -35,10 +35,9 @@ baseurl: ""
 
 # List of links in the navigation bar
 navbar-links:
-  Research: 
-    - My Research: "Research"
-    - Data and Code: "https://github.com/echille/"
-    - My Open Lab Notebook: "https://echille.github.io/E.-Chille-Open-Lab-Notebook/"
+  Research: "Research"
+  Data and Code: "https://github.com/echille/"
+  Open Lab Notebook: "https://echille.github.io/E.-Chille-Open-Lab-Notebook/"
   Community Engagement: "CommunityEngagement"
   CV: "CV"
   
