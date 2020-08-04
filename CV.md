@@ -2,7 +2,7 @@
 layout: page  
 title: Curriculum vitae  
 bigimg:
-  - "img/CVbigimg"
+  - "img/CVbigimg.JPG"
 permalink: /CV/  
 show-avatar: false   
 ---
