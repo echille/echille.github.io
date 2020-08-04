@@ -29,7 +29,7 @@ In addition to lab work, during the summer of 2019, I accompanied Kevin for fiel
 ![mesocosm](/img/D9oK6phXUAEs_cp.jpeg) ![BIOS1](/img/BIOS1.png) ![BIOS2](/img/BIOS2.jpg)
 
 #### Reef Community Ecology  
-In Fall 2016 I joined Graham Forrester's Lab at the University of Rhode Island, where I worked throughout my undergraduate career. In the Forrester Lab, I organized data collected during the URI Bonaire J-term Program from 2014 onward in order to compile a status report for the STINAPA Bonaire National Parks Foundation. Later on, I assisted with fieldwork in the British Virgin Islands. In the field, I contributed to experimental site construction, identification of parasites, and fish collection and observation. Upon return, I assisted in manuscript writing and revision for submission to the Journal of Scientific Reports.
+In Fall 2016 I joined Graham Forrester's Lab at the University of Rhode Island, where I worked throughout my undergraduate career. In the Forrester Lab, I organized data collected during the URI Bonaire J-term Program from 2014 onward in order to compile a status report for the STINAPA Bonaire National Parks Foundation. Later on, I assisted with fieldwork in the British Virgin Islands. In the field, I contributed to experimental site construction, identification of parasites, and fish collection and observation. Upon return, I assisted in manuscript writing and revision for submission to *Scientific Reports.*
 
 ##### Published in *Scientific Reports:*  
 Forrester, G.E., **Chille, E.,** Nickles, K. *et al.* Behavioural mechanisms underlying parasite-mediated competition for refuges in a coral reef fish. *Sci Rep* **9,** 15487 (2019). [https://doi.org/10.1038/s41598-019-52005-y](https://doi.org/10.1038/s41598-019-52005-y)
