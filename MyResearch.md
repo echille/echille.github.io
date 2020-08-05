@@ -8,8 +8,6 @@ permalink: /Research/
 show-avatar: false   
 ---
 
-*Under Construction! Expected launch date August 4th, 2020*
-
 <img style="padding: 10px; float: right;" src="/img/EBDRkBVXoAE29bM.jpeg">
 
 ### Graduate Research
